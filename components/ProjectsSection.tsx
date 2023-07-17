@@ -33,15 +33,15 @@ const projects = [
     github: "https://github.com/Expresso-NITP/Expresso_Official_Website",
     link: "https://expresso-nitp.github.io/Expresso_Official_Website/",
   },
-  {
-    name: "Algo Path Visualizer",
-    description:
-      "Algorithm path visualizer that brings Data Structures and Algorithms (DSA) to life. Through captivating visualizations and interactive exploration, delve into the inner workings of DSA concepts, unravel their efficiency, and gain valuable insights into algorithmic problem-solving. ",
-    image: "/algopath.png",
-    projectTech:["HTML","CSS","JavaScript",],
-    github: "https://github.com/roy15simrn/Algo--visualize",
-    link: "https://algopath-visualizer.netlify.app/",
-  },
+  // {
+  //   name: "Algo Path Visualizer",
+  //   description:
+  //     "Algorithm path visualizer that brings Data Structures and Algorithms (DSA) to life. Through captivating visualizations and interactive exploration, delve into the inner workings of DSA concepts, unravel their efficiency, and gain valuable insights into algorithmic problem-solving. ",
+  //   image: "/algopath.png",
+  //   projectTech:["HTML","CSS","JavaScript",],
+  //   github: "https://github.com/roy15simrn/Algo--visualize",
+  //   link: "https://algopath-visualizer.netlify.app/",
+  // },
 
 ]
 
